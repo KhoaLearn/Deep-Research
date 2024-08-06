@@ -1,0 +1,14 @@
+# # Virtual environment
+# deep-rs/
+
+# # Jupyter Notebook checkpoints
+# .ipynb_checkpoints/
+
+# # Python bytecode
+# __pycache__/
+# *.pyc
+# *.pyo
+
+# # Data files
+# data/raw/
+# data/processed/
